@@ -1,7 +1,7 @@
 # Active Record Lite
-## A lite version of Rails Active Record.
+A lite version of Rails Active Record.
 
-## This implementation includes:
+This implementation includes:
 1. mass assignment 
 2. database abstraction 
   * Class Methods all/new/create/find/where
@@ -12,4 +12,4 @@
   * has_one_through
 
 
-## Undergoing some refactoring, to be updated soon.
+Undergoing some refactoring, to be updated soon.
