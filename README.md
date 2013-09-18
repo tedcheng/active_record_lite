@@ -1,4 +1,7 @@
 # Active Record Lite
+### Undergoing some refactoring, to be updated soon.
+
+
 A lite version of Rails Active Record.
 
 This implementation includes:
@@ -12,4 +15,3 @@ This implementation includes:
   * has_one_through
 
 
-Undergoing some refactoring, to be updated soon.
